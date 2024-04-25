@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kiemtra90.props" />
+</Project>

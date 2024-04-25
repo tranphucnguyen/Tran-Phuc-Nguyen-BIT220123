@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Q5ud8sZKz0e/jwht0F+sn+jB33NVIhPar35CkkWxCmw=",
+  "Source": "Kiemtra90",
+  "BasePath": "_content/Kiemtra90",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Kiemtra90\\wwwroot",
+      "Source": "Kiemtra90",
+      "ContentRoot": "E:\\C\\Kiemtra90\\Kiemtra90\\wwwroot\\",
+      "BasePath": "_content/Kiemtra90",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\C\\Kiemtra90\\Kiemtra90\\wwwroot\\index.html",
+      "SourceId": "Kiemtra90",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C\\Kiemtra90\\Kiemtra90\\wwwroot\\",
+      "BasePath": "_content/Kiemtra90",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\C\\Kiemtra90\\Kiemtra90\\wwwroot\\Quanlyhanghoa.html",
+      "SourceId": "Kiemtra90",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C\\Kiemtra90\\Kiemtra90\\wwwroot\\",
+      "BasePath": "_content/Kiemtra90",
+      "RelativePath": "Quanlyhanghoa.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Quanlyhanghoa.html"
+    },
+    {
+      "Identity": "E:\\C\\Kiemtra90\\Kiemtra90\\wwwroot\\Quanlynhomhang.html",
+      "SourceId": "Kiemtra90",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C\\Kiemtra90\\Kiemtra90\\wwwroot\\",
+      "BasePath": "_content/Kiemtra90",
+      "RelativePath": "Quanlynhomhang.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Quanlynhomhang.html"
+    }
+  ]
+}
